@@ -1,2 +1,6 @@
 Billy Wilder é um dos maiores diretores da história do cinema mundial.
+<<<<<<< HEAD
 Vamos falar de seus filmes premiados.
+=======
+Vamos falar da f sua filmografia.
+>>>>>>> filmografia
